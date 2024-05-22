@@ -9,7 +9,7 @@ A website for a digital Agency
 ## Tech Stack
 
 **Client:** Vanilla Js, HTML, CSS
-No Framworks used!
+No Frameworks used!
 
 ## Run Locally
 
